@@ -42,6 +42,7 @@
 		<div class="col-md-8">
 			<h2>Welcome To PCJ Association, Banglore, 2024</h2>
 			<h3>Contact @ +91-6304794704,,+91-7702992413</h3>
+			<h4>We are Providing the clasess for Manual Testing, Docker, Jenkins and Kubernetes alsi</h4>
 		</div>	
 	</div>
 
